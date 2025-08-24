@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammed Öztünç  
 
-<!--
-**oztncmuhammed/oztncmuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a passionate **Frontend Developer** currently working with  
+**HTML, CSS, Bootstrap, JavaScript, and React.js** to build modern and responsive web applications.  
 
-Here are some ideas to get you started:
+💻 I actively use **GitHub** to share my projects and manage version control.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 I also have an entry-level background in **Software Testing**, which helps me improve the quality and reliability of my code.  
+
+🎯 My career goal is to start as a **Frontend Developer** and grow into a **Full Stack Developer**, constantly learning and building impactful solutions.  
+
+📌 I’m always open to learning new technologies, developing practical projects, and collaborating in team environments.  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,github" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=oztuncfinans&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oztuncfinans&theme=tokyonight" alt="GitHub Streak" />
+</p>
