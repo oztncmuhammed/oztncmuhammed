@@ -24,9 +24,13 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oztncmuhammed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oztncmuhammed&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oztncmuhammed&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oztncmuhammed&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
