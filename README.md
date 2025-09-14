@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammed Öztünç 
+# 👋 Hi, I'm Muhammed Öztünç
 
 🚀 I’m a passionate **Frontend Developer** currently working with  
 **HTML, CSS, Bootstrap, JavaScript, and React.js** to build modern and responsive web applications.  
