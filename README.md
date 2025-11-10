@@ -11,7 +11,7 @@
 
 📌 I’m always open to learning new technologies, developing practical projects, and collaborating in team environments.  
 
----
+------
 
 ## 🛠️ Tech Stack
 
