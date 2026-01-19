@@ -24,15 +24,12 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oztncmuhammed&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oztncmuhammed&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats" />
 </p>
-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oztncmuhammed&layout=compact&theme=tokyonight&hide_progress=true&cache_seconds=1800" alt="Top Languages" />
 </p>
-
-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oztncmuhammed&layout=compact&theme=tokyonight" alt="Top Languages" />
