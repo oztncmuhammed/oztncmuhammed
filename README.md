@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammed Öztünç
 
-🚀 I’m a passionate **Frontend Developer And Mobil Devloper** currently working with  
+🚀 I’m a passionate **Frontend Developer And Mobil Developer** currently working with  
 **HTML, CSS, Bootstrap, JavaScript, Dart,Flutter and React.js** to build modern and responsive web applications.  
 
 💻 I actively use **GitHub** to share my projects and manage version control.  
